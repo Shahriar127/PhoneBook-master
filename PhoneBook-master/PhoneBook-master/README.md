@@ -46,24 +46,6 @@ A simple phonebook application built with JavaFX
 - Java 17 or higher
 - Git (for cloning the repository)
 
-### Installation & Running
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/frost23z/PhoneBook.git
-   cd PhoneBook
-   ```
-
-2. **Run the application**
-   ```bash
-   ./gradlew run
-   ```
-
-   On Windows:
-   ```cmd
-   gradlew.bat run
-   ```
-
 ## 🎮 Usage Guide
 
 ### First Time Setup
@@ -132,11 +114,6 @@ A simple phonebook application built with JavaFX
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**frost23z**
-
-- GitHub: [@frost23z](https://github.com/frost23z)
 
 ## 🙏 Acknowledgments
 
